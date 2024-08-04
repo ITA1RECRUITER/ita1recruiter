@@ -1,0 +1,82 @@
+Backend: 3:12
+
+
+Employer Register ID
+{
+    "name": "rkhdmv",
+    "email": "rkhdmv@gmail.com",
+    "phone": 8985074606,
+    "role": "Employer",
+    "password": "143@MomDad"
+}
+Job Seeker Register ID 
+{   
+    "name": "koliyasystems",
+    "email": "koliyasystems@gmail.com",
+    "phone": 7337576911,
+    "password": "12345678",
+    "role": "Job Seeker"
+}
+
+Employer login ID 
+{
+    "email": "rkhdmv@gmail.com",
+    "password": "143@MomDad",
+    "role": "Employer"
+}
+Job Seeker Login ID 
+{   
+    "email": "koliyasystems@gmail.com",
+    "password": "12345678",
+    "role": "Job Seeker"
+}
+
+POST JOBS 
+-----------------------
+
+{
+    "title": "Flutter",
+    "description": "Descroption......Descroption......Descroption......Descroption......Descroption......",
+    "category":"WEB DEVELOPMENT",
+    "country":"USA",
+    "city":"New York",
+    "location":"Madhapur, Hyderabad, Telangana, INDIA-508101",
+    "salaryFrom":"5000",
+    "salaryTo":"25000"
+}
+
+
+
+SAMPLE EXAMPLE COMPLETE: 
+------------------------------------------------------
+Employer Register ID
+{
+    "name": "softtapps",
+    "email": "softtapps@gmail.com",
+    "phone": 6281558964,
+    "role": "Employer",
+    "password": "143@MomDad"
+}
+
+Job Seeker Register ID 
+{   
+    "name": "das6radha",
+    "email": "das6radha@gmail.com",
+    "phone": 7337576911,
+    "role": "Job Seeker"
+    "password": "12345678"
+}
+
+Employer Login ID
+{
+    "email": "softtapps@gmail.com",
+    "password": "143@MomDad",
+    "role": "Employer"
+}
+
+Job Seeker Login ID 
+{   
+    "email": "das6radha@gmail.com",
+    "password": "12345678",
+    "role": "Job Seeker"
+}
